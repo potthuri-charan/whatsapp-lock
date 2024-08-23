@@ -23,7 +23,7 @@ Follow these steps to set up the WhatsApp Lock system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/whatsapp-lock.git
+   git clone https://github.com/potthuri-charan/whatsapp-lock.git
    ```
 
 2. **Navigate to the project directory:**
