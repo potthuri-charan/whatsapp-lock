@@ -75,5 +75,7 @@ Copy and paste this code into your `README.md` file in the root directory of you
 
 ```
 <p align="center">
+   ![image](https://github.com/user-attachments/assets/d6b3f7d7-4820-47c3-928a-af49b20b8288)
+
   <img src="https://github.com/user-attachments/assets/80f7bea1-8925-4ace-a044-115c6569d9da" alt="image" />
 </p>
