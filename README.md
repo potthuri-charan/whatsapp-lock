@@ -74,6 +74,6 @@ This project is licensed under the MIT License.
 Copy and paste this code into your `README.md` file in the root directory of your project. Make sure to replace `"https://github.com/your-username/whatsapp-lock.git"` with the actual URL of your GitHub repository.
 
 ```
-<center>
-![image](https://github.com/user-attachments/assets/80f7bea1-8925-4ace-a044-115c6569d9da)
-</center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80f7bea1-8925-4ace-a044-115c6569d9da" alt="image" />
+</p>
